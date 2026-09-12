@@ -11,7 +11,7 @@ The project focuses heavily on **premium UI/UX, motion design, responsive layout
 ## ✨ Live Experience
 
 🌐 **Live Demo:**  
-https://craveverse.vercel.app/
+https://craveverse-two.vercel.app/
 
 > Replace the URL above with your final deployed CraveVerse URL if different.
 
