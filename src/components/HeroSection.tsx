@@ -872,7 +872,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-amber-500/20 to-purple-500/20 border border-stone-700/80 flex items-center justify-center p-1.5 shadow-inner">
                 <img
-                  src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+                   src="/cofee.jpg"
                   alt="Bean Logo"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-contain rounded-full"
@@ -1735,7 +1735,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
     >
 
       <img
-        src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+      src="/cofee.jpg"
         alt="Floating coffee bean"
         referrerPolicy="no-referrer"
         draggable={false}
@@ -1793,7 +1793,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
     >
 
       <img
-        src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+         src="/cofee.jpg"
         alt="Floating coffee bean"
         referrerPolicy="no-referrer"
         draggable={false}
@@ -1842,7 +1842,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
     >
 
       <img
-        src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+     src="/cofee.jpg"
         alt="Floating coffee bean"
         referrerPolicy="no-referrer"
         draggable={false}
@@ -2369,7 +2369,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
         >
 
           <img
-            src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+             src="/cofee.jpg"
             alt="Roasted coffee bean"
             referrerPolicy="no-referrer"
             draggable={false}

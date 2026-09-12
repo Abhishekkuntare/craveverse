@@ -1207,7 +1207,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     name: 'The Local Bean Artisanal Roastery',
     tagline: 'Single-origin specialty roasts, iced boba espresso & dirty matcha clouds',
     coverImage: 'https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80',
-    logo: '/src/assets/images/single_coffee_bean_1789210003013.jpg',
+    logo: '/cofee.jpg',
     rating: 4.96,
     reviewCount: 4280,
     cuisines: ['Coffee & Bakery', 'Beverages', 'Desserts', 'Artisanal'],

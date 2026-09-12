@@ -140,7 +140,7 @@ export const CinematicIntroOverlay: React.FC<CinematicIntroOverlayProps> = ({
             }}
           >
             <img
-              src="/src/assets/images/single_coffee_bean_1789210003013.jpg"
+              src="/cofee.jpg"
               alt="Artisanal Roasted Coffee Bean"
               referrerPolicy="no-referrer"
               className="w-full h-full object-contain filter drop-shadow-[0_20px_35px_rgba(245,158,11,0.3)] select-none pointer-events-none rounded-full"
