@@ -2117,7 +2117,7 @@ const spark3Ref = useRef<HTMLDivElement>(null);
     >
 
       <img
-        src={currentBeverage.image}
+        src="./public/ice.jpg"
         alt={currentBeverage.name}
         referrerPolicy="no-referrer"
         draggable={false}
