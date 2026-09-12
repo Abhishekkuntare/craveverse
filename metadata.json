@@ -1,0 +1,6 @@
+{
+  "name": "CraveVerse — Next-Gen Food Marketplace",
+  "description": "A next-generation digital food discovery universe, restaurant marketplace, instant ordering, live tracking, and AI-powered food intelligence ecosystem.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
