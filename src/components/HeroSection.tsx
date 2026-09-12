@@ -2116,28 +2116,23 @@ const spark3Ref = useRef<HTMLDivElement>(null);
       "
     >
 
-      <img
-        src="./public/ice.jpg"
-        alt={currentBeverage.name}
-        referrerPolicy="no-referrer"
-        draggable={false}
-        className="
-          h-full
-          w-full
-
-          rounded-full
-
-          object-cover
-
-          select-none
-
-          pointer-events-none
-
-          transition-transform
-          duration-700
-          ease-out
-        "
-      />
+     <img
+  src="/ice.jpg"
+  alt={currentBeverage.name}
+  referrerPolicy="no-referrer"
+  draggable={false}
+  className="
+    h-full
+    w-full
+    rounded-full
+    object-cover
+    select-none
+    pointer-events-none
+    transition-transform
+    duration-700
+    ease-out
+  "
+/>
 
 
       {/* ======================================================
